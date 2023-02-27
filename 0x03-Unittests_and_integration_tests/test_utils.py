@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Learning Unittests
+Learning Python Unittests
 """
 
 import unittest
